@@ -1,6 +1,10 @@
 
 /* 모든 margin 과 padding 기본값 0으로 */
 *{margin: 0; padding: 0;}
+body{
+width: 1100px;
+margin:0 auto;
+}
 
 /* header 시작 */
 header {
